@@ -67,7 +67,8 @@ Utilizei Python para fazer a maior parte dos gráficos, mas a primeira lógica p
 
 Quero deixar claro que ainda não sou um Cientista da Computação formado e não me preocupei com um método matemático estritamente correto para provar tudo isso a nível de uma pesquisa científica. Isso tudo é apenas uma grande curiosidade que pude relacionar e aplicar dentro dos meus principais âmbitos de estudo.
 
-Verifique a publicação no Linkedin com algumas imagens:
+Verifique a publicação no Linkedin com algumas imagens: 
+https://www.linkedin.com/pulse/um-pequeno-estudo-sobre-soma-de-n%25C3%25BAmeros-aleat%25C3%25B3rios-felix-hrescak-1lnvf
 
 *********************************************************************************************************************************
 
@@ -98,4 +99,5 @@ This theorem explains why randomness decreases when we sum random numbers, and t
 To conclude, I am also sharing the codes I created to generate the graphs and how I used them. I am also providing a generalized code for those who want to test different numbers of values and sums (just make sure your computer can handle these sums lol). I used Python to create most of the graphs, but I first developed the algorithm’s logic in C. I will upload the codes to my GitHub for anyone interested.
 
 I want to clarify that I am not yet a formally trained Computer Scientist, and I did not strictly follow a mathematical method to scientifically prove these findings. This is simply a fascinating curiosity where I was able to combine and apply my two main areas of study.
-
+See in the linkedin:
+https://www.linkedin.com/pulse/um-pequeno-estudo-sobre-soma-de-n%25C3%25BAmeros-aleat%25C3%25B3rios-felix-hrescak-1lnvf
